@@ -26,7 +26,7 @@ The other picture illustrates the parent flow of a specific flow: as you can see
 
 ## How can you install this utility ?
 
-Watch the following video.
+Watch the following [video](https://youtu.be/3yJpoFH0DP8)
 
 
 
