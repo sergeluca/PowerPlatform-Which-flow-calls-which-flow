@@ -15,6 +15,14 @@ Typically the flow "BPM Toolkit - Case Launcher v2" calls 8 flows directly.
 ![](https://github.com/sergeluca/PowerPlatform-Which-flow-calls-which-flow/blob/main/Images/flowcallsflow.jpg)
 
 
+
+
+The other picture illustrates the parent flow of a specific flow: as you can see the flow BPM Toolkit - Log Flow error is called by many flows.
+
+![](https://github.com/sergeluca/PowerPlatform-Which-flow-calls-which-flow/blob/main/Images/flowiscalledby.jpg)
+
+
+
 How can you install this utility ?
 
 1. You need PowerBI desktop on your machine
@@ -23,12 +31,4 @@ How can you install this utility ?
 4. Run the flow WCW utility
 5. Depending on the number of flows in your environments (across several solutions), it can take several minutes to complete.
 6. Then download the **FlowsCallsFlow.pbix** file
-
-The other picture illustrates the parent flow of a specific flow: as you can see the flow BPM Toolkit - Log Flow error is called by many flows.
-
-![](https://github.com/sergeluca/PowerPlatform-Which-flow-calls-which-flow/blob/main/Images/flowiscalledby.jpg)
-
-
-
-
 
