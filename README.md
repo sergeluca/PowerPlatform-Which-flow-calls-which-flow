@@ -14,13 +14,16 @@ So this is what the utility display
 
 In the following picture, you can see on the left side the parent flows and the child flows on the right.
 
-Typically the flow "BPM Toolkit - Case Launcher v2" calls 8 flows directly.
+Typically the flow "CreateProject" calls 9 flows directly.
+"CreateProject" iscin the solution ALM Accelarator for Makers.
+
+The flow CreateEnvironment is a button flow (Caller type=Button).
 
 ![](https://github.com/sergeluca/PowerPlatform-Which-flow-calls-which-flow/blob/main/Images/fcfcalls.jpg)
 
 
 
-The other picture illustrates the parent flow of a specific flow: as you can see the flow BPM Toolkit - Log Flow error is called by many flows.
+The other picture illustrates the parent flow of a specific flow: as you can see the flow ReadEnvironmentVariable is called by many flows.
 
 ![](https://github.com/sergeluca/PowerPlatform-Which-flow-calls-which-flow/blob/main/Images/fcfiscalledby.jpg)
 
