@@ -29,6 +29,8 @@ The other picture illustrates the parent flow of a specific flow: as you can see
 
 And of course, you benefits from all the features coming with PowerBI like the search and filtering pane:
 
+![](https://github.com/sergeluca/PowerPlatform-Which-flow-calls-which-flow/blob/main/Images/fcffilter.jpg)
+
 
 ## How can you install this utility ?
 
