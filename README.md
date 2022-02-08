@@ -1,4 +1,4 @@
-# **Welcome to the Power Platform "Which flow calls which flow" utility**
+# **Welcome to the Power Platform "Flows call flows" utility**
 
 ## Overview 
 
