@@ -16,13 +16,13 @@ In the following picture, you can see on the left side the parent flows and the 
 
 Typically the flow "BPM Toolkit - Case Launcher v2" calls 8 flows directly.
 
-![](https://github.com/sergeluca/PowerPlatform-Which-flow-calls-which-flow/blob/main/Images/flowcallsflow.jpg)
+![](https://github.com/sergeluca/PowerPlatform-Which-flow-calls-which-flow/blob/main/Images/fcfcalls.jpg)
 
 
 
 The other picture illustrates the parent flow of a specific flow: as you can see the flow BPM Toolkit - Log Flow error is called by many flows.
 
-![](https://github.com/sergeluca/PowerPlatform-Which-flow-calls-which-flow/blob/main/Images/flowiscalledby.jpg)
+![](https://github.com/sergeluca/PowerPlatform-Which-flow-calls-which-flow/blob/main/Images/fcfiscalledby.jpg)
 
 ## How can you install this utility ?
 
