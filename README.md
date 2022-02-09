@@ -2,7 +2,7 @@
 
 ## Overview 
 
-This small utility has been created by **Doctor Flow** aka **Serge Luca** from [Power Platform Associates](https://www.shareql.com).
+This small utility has been created by **Doctor Flow** aka **Serge Luca** and Isabelle Van Campenhoudt from [Power Platform Associates](https://www.shareql.com).
 
 The goal of this utility is to provide a way to figure out which (Microsoft Power Automate) flow is invoked by which flow and which flow calls which flow.
 Indeed some applications (like the BPM Toolkit on Github) can have hundreds of Power Automate flows, that call each other.
