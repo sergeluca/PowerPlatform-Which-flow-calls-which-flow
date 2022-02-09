@@ -34,7 +34,7 @@ And of course, you benefits from all the features coming with PowerBI like the s
 
 ## How can you install this utility ?
 
-Watch the following [video](https://youtu.be/3yJpoFH0DP8)
+Watch the following [video](https://youtu.be/2wCEMm3k_PI)
 
 
 
